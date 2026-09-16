@@ -30,3 +30,10 @@ Built deliberately without any single firm's internal terminology — the struct
 ## Data Honesty Note
 
 Every figure in this workbook is either directly sourced (with citation) or clearly labeled as a modeled assumption. No claim is made that this represents Dalata Hotel Group's actual internal data, strategy, or results.
+
+## Preview
+
+<img width="1440" height="732" alt="Screenshot 2026-09-16 at 16 20 35" src="https://github.com/user-attachments/assets/708bb883-9144-4b80-a0e6-cfe5b132c8e0" />
+<img width="1440" height="731" alt="Screenshot 2026-09-16 at 16 21 34" src="https://github.com/user-attachments/assets/0ceffdc2-e11b-4b80-88b4-6fa80d060397" />
+
+
