@@ -4,7 +4,7 @@ An independent, self-directed digital transformation business case built for Dal
 
 - **Author:** Valeriia Slastin
 - **Type:** Independent portfolio project — not affiliated with, commissioned by, or reviewed by Dalata Hotel Group, EY, Deloitte, KPMG, PwC, or any professional services firm.
-- **Primary deliverable:** Excel workbook (`Dalata_Digital_Transformation_Business_Case.xlsx`)
+- **Primary deliverable:** Excel workbook (`Dalata_Digital_Transformation_Valeriia_Slastin.xlsx`)
 
 ## About the Project
 
